@@ -17,3 +17,6 @@ Clean the dataset and build and select a machine learning model that will best p
 7. Elastic Net
 8. XGBoost
 
+## Folder
+- Files: 
+  - Includes House Prices as well as data description text file
