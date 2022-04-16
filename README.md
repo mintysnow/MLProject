@@ -5,7 +5,7 @@
 - The Dataset includes information regarding 2,580 homes and 82 variables. The variables consist of information regarding the home like number of bathrooms, roof style, and square footage.
 
 ## Goal of This Project 
-Clean the dataset and build and select a machine learning model that will best predict the sales price of the home.
+- Clean the dataset and build and select a machine learning model that will best predict the sales price of the home.
 
 ## Models Used
 1. Decision Tree
