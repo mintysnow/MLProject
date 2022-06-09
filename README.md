@@ -17,6 +17,14 @@
 7. Elastic Net
 8. XGBoost
 
+## Findings
+- Improve the quality and condition of everything inside and outside the house, including detached garages. 
+  - Aim for quality level 9 / excellent
+- Homes with air conditioning, high total square footage, and high number of bathrooms tend to sell for a higher price. 
+- The model that produced the best R-Squared of the test set was Ridge since 93.4% of the data fit the model.  However it was pretty close to Lasso and Elastic Net.
+- We can look at coefficients to make logical conclusions about which features are more important than others
+  - By looking at the coefficients, I found the top 10 features to be from Overall quality, Neighborhood, Sale Condition, Overall Condition, Condition1 (Proximity to parks), and MsSubclass (describes the type of home that was sold).
+
 ## Folder
 - Files: 
   - Includes House Prices as well as data description text file
